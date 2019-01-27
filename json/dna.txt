@@ -18,5 +18,11 @@
 		"files":[
 			"index.txt"
 		]
+	},
+	{
+		"path":"json",
+		"files":[
+			"dna.txt"
+		]
 	}
 ]
